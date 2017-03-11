@@ -34,14 +34,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Bentley University, Waltham, MA (Aug '10 - May '14)
 
-Bachelor of Science, Corporate Finance & Accounting
-
-**G.P.A.** 3.93/4.0
-
-Courses in Statistics, Marketing, Management, Operations, Global Strategy
-
-**Honors:** Honors Program, President’s Academic Merit Scholarship
-
+Bachelor of Science, Corporate Finance & Accounting     
+**G.P.A.** 3.93/4.0    
+Courses in Statistics, Marketing, Management, Operations, Global Strategy     
+**Honors:** Honors Program, President’s Academic Merit Scholarship    
 **Leadership experience:** *Vice President of Organisation Recognition* for the Association of Bentley Activities,
 *Chancellor* for the Professional Fraternity of Delta Sigma Pi
 
@@ -50,16 +46,16 @@ Courses in Statistics, Marketing, Management, Operations, Global Strategy
 
 ## Experience
 
-**KPMG, LLP**, *New York, NY / London* (Aug '14 - Nov '16)
-*Intellectual Property and Contract Governance Advisory Associate*   
+**KPMG, LLP**, *New York, NY / London* (Aug '14 - Nov '16)  
+*Intellectual Property and Contract Governance Advisory Associate*   
 
-**First Year Programs, Bentley University**, *Waltham, MA* (Aug '13 - Dec '13)   
+**First Year Programs, Bentley University**, *Waltham, MA* (Aug '13 - Dec '13)    
 *First Year Seminar Peer Facilitator*  
 
-**ACELAB, Bentley University**, *Waltham, MA* (Sep '12 - May '14)
+**ACELAB, Bentley University**, *Waltham, MA* (Sep '12 - May '14)     
 *Accounting Tutor*
 
-**Residence Life, Bentley University**, *Waltham, MA* (Aug '12 - May '14)
+**Residence Life, Bentley University**, *Waltham, MA* (Aug '12 - May '14)  
 *Resident Assistant*
 
 ## Interests
