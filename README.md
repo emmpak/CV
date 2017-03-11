@@ -51,19 +51,15 @@ Courses in Statistics, Marketing, Management, Operations, Global Strategy
 ## Experience
 
 **KPMG, LLP**, *New York, NY / London* (Aug '14 - Nov '16)
-
 *Intellectual Property and Contract Governance Advisory Associate*   
 
 **First Year Programs, Bentley University**, *Waltham, MA* (Aug '13 - Dec '13)   
-
 *First Year Seminar Peer Facilitator*  
 
 **ACELAB, Bentley University**, *Waltham, MA* (Sep '12 - May '14)
-
 *Accounting Tutor*
 
 **Residence Life, Bentley University**, *Waltham, MA* (Aug '12 - May '14)
-
 *Resident Assistant*
 
 ## Interests
