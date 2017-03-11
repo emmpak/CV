@@ -32,17 +32,30 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Bentley University, Waltham, MA (Aug '10 - May '14)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Bachelor of Science, Corporate Finance & Accounting
+**G.P.A.** 3.93/4.0
+Courses in Statistics, Marketing, Management, Operations, Global Strategy
+**Honors:** Honors Program, President’s Academic Merit Scholarship
+**Leadership experience:** *Vice President of Organisation Recognition* for the Association of Bentley Activities,
+*Chancellor* for the Professional Fraternity of Delta Sigma Pi
+
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**KPMG, LLP**, *New York, NY / London* (Aug '14 - Nov '16)    
+*Intellectual Property and Contract Governance Advisory Associate*   
+**First Year Programs, Bentley University**, *Waltham, MA* (Aug '13 - Dec '13)   
+*First Year Seminar Peer Facilitator*  
+**ACELAB, Bentley University**, *Waltham, MA* (Sep '12 - May '14)
+*Accounting Tutor*
+**Residence Life, Bentley University**, *Waltham, MA* (Aug '12 - May '14)
+*Resident Assistant*
+
+## Interests
+
+Crossfit - I participated in my first Crossfit Open competition in March.
+Skiing - I learned skiing in Bulgaria and have covered
