@@ -23,14 +23,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Feb '17 - Jun '17)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+A 16-week intensive development bootcamp, focusing on:
+
+* Agile methodologies
+* Object-oriented design
+* Test driven development and behaviour driven development
+* Pair programming
+* XP values
 
 #### Bentley University, Waltham, MA (Aug '10 - May '14)
 
@@ -47,7 +48,7 @@ Courses in Statistics, Marketing, Management, Operations, Global Strategy   
 ## Experience
 
 **KPMG, LLP**, *New York, NY / London* (Aug '14 - Nov '16)  
-*Intellectual Property and Contract Governance Advisory Associate*   
+*Intellectual Property and Contract Governance Advisory Associate*  
 
 **First Year Programs, Bentley University**, *Waltham, MA* (Aug '13 - Dec '13)    
 *First Year Seminar Peer Facilitator*  
