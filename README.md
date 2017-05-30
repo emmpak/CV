@@ -13,7 +13,7 @@ I would love to work as a web or software developer for a purpose-driven company
 
 ## <a name='projects'> Projects </a>
 
-For a complete list, see this roadmap of my time at Makers Academy.
+For a complete list, see the [roadmap](Projects.md) of my time at Makers Academy.
 
 Project | Description | Demo | Tech Stack | Testing Technologies
 --------|-------------|------|------------|---------------------
@@ -32,14 +32,12 @@ Chitter|
 
 #### Grit, Adaptability & Emotional Intelligence
 
-Three strengths, so intertwined that I cannot separate them, have shaped my character and personality to an extent that I could have never imagined.
-
 * Began my university journey with relatively minimal English skills and graduated in the top 20 of my class.
 * Got a highly competitive internship in New York during my junior year, which translated into a full time job after graduation.
 * Outperformed during my first year at KPMG, and was offered to relocate to London when I was not selected in the visa lottery.
 * Made the decision to switch careers in November and become a web developer (1500 hours of coding and counting).
 
-None of these achievement would have happened if it wasn't for my discipline and perseverance (grit), ability to accept change (adaptability), and motivation (EI).
+None of these achievement would have happened if it wasn't for my discipline and perseverance (grit), ability to accept change (adaptability), and motivation and self-awareness (EI).
 
 ## <a name='education'> Education </a>
 
@@ -62,9 +60,7 @@ A 16-week intensive development bootcamp, focusing on:
 **G.P.A.** 3.93/4.0    
 **Courses** in Statistics, Marketing, Management, Operations, Global Strategy     
 **Honors:** Honors Program, President’s Academic Merit Scholarship    
-**Leadership experience:**
-* *Vice President of Organisation Recognition* for the Association of Bentley Activities,
-* *Chancellor* for the Professional Fraternity of Delta Sigma Pi
+**Leadership experience:** Headed the student organization recognition process
 
 ## <a name='experience'> Experience </a>
 
