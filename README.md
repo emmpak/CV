@@ -1,6 +1,6 @@
 ## Emil Iliev
 ### Full Stack Developer
-[Projects](#Projects) | [Skills](#Skills) | [Education](Education) | [Experience](Experience) | [Interests](Interests)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 
 An accountant with a strong analytical background and attention to detail gone rogue in the name of the Web.
@@ -11,7 +11,7 @@ While I have always had an affection for numbers and logical thinking, I came to
 
 I would love to work as a web or software developer for a purpose-driven company that strives to be better than yesterday and understands the importance of education, mentorship and personal growth.
 
-## <a name='Projects'> Projects </a>
+## <a name='projects'> Projects </a>
 
 For a complete list, see this roadmap of my time at Makers Academy.
 
@@ -22,7 +22,13 @@ Multiplayer Snake|
 Chitter|
 
 
-## Skills
+## <a name='skills'> Skills </a>
+
+#### Independent and Fast Learner
+
+* Self taught myself coding for four months and built a website prior to attending Makers Academy.
+* Learned how to develop an Alexa skill in 2 days and lead the final project.
+* Built a multiplayer game with my team in 4 days without any previous experience in web sockets.
 
 #### Grit, Adaptability & Emotional Intelligence
 
@@ -33,38 +39,9 @@ Three strengths, so intertwined that I cannot separate them, have shaped my char
 * Outperformed during my first year at KPMG, and was offered to relocate to London when I was not selected in the visa lottery.
 * Made the decision to switch careers in November and become a web developer (1500 hours of coding and counting).
 
-None of these achievement would have happened if it wasn't for my discipline and perseverance (grit), ability to accept change (adaptability), and
+None of these achievement would have happened if it wasn't for my discipline and perseverance (grit), ability to accept change (adaptability), and motivation (EI).
 
-#### Independent Learner
-* Initiated my
-* Lead final project
-* Learned new technologies practice project week
-
-
-
-Additional Skills
-* Fast Learner
-* Critical Thinker
-* Go getter
-
-#### This Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
+## <a name='education'> Education </a>
 
 #### Makers Academy (Feb '17 - Jun '17)
 
@@ -89,7 +66,7 @@ A 16-week intensive development bootcamp, focusing on:
 * *Vice President of Organisation Recognition* for the Association of Bentley Activities,
 * *Chancellor* for the Professional Fraternity of Delta Sigma Pi
 
-## Experience
+## <a name='experience'> Experience </a>
 
 **KPMG, LLP**, *New York, NY / London* (Aug '14 - Nov '16)  
 *Intellectual Property and Contract Governance Advisory Associate*  
@@ -103,8 +80,9 @@ A 16-week intensive development bootcamp, focusing on:
 **Residence Life, Bentley University**, *Waltham, MA* (Aug '12 - May '14)  
 *Resident Assistant*
 
-## Interests
+## <a name='interests'> Interests </a>
 
 * *Crossfit* - Participated in my first Crossfit Open competition in March.
 * *Skiing* - First resort: Bansko, Bulgaria; Favourite resort: Jackson Hole, Wyoming
 * *Traveling* - Visited 16 countries on three continents within a year while working full-time.
+* *Blogging* -
