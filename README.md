@@ -1,6 +1,6 @@
 ## Emil Iliev
 ### Full Stack Developer
-[Projects](Projects) | [Skills](Skills) | [Education](Education) | [Experience](Experience) | [Interests](Interests)
+[Projects](#Projects) | [Skills](#Skills) | [Education](Education) | [Experience](Experience) | [Interests](Interests)
 
 
 An accountant with a strong analytical background and attention to detail gone rogue in the name of the Web.
@@ -15,6 +15,11 @@ I would love to work as a web or software developer for a purpose-driven company
 
 For a complete list, see this roadmap of my time at Makers Academy.
 
+Project | Description | Demo | Tech Stack | Testing Technologies
+--------|-------------|------|------------|---------------------
+Alexa Sous Chef|
+Multiplayer Snake|
+Chitter|
 
 
 ## Skills
