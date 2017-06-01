@@ -5,7 +5,7 @@
 
 An accountant with a strong analytical background and attention to detail gone rogue in the name of the Web.
 
-After graduating from Bentley University in Massachusetts with a degree in Corporate Finance & Accounting, I spent two years working in risk consulting and audit in NYC and London as an Intellectual Property and Contract Governance Advisor for large technology companies.
+After graduating summa cum laude from Bentley University in Massachusetts with a degree in Corporate Finance & Accounting, I spent two years working in risk consulting and audit in NYC and London as an Intellectual Property and Contract Governance Advisor for large technology companies.
 
 While I have always had an affection for numbers and logical thinking, I came to the realisation that I need some creativity in my life and that's when I fell in love with coding.
 
@@ -28,7 +28,8 @@ Chitter|
 
 * Self taught myself coding for four months and built a website prior to attending Makers Academy.
 * Learned how to develop an Alexa skill in 2 days and lead the final project.
-* Built a multiplayer game with my team in 4 days without any previous experience in web sockets.
+* Built an Alexa Voice Service prototype in 2 hours using Raspberry Pi to test my Alexa skills.
+* Created a multiplayer game with my team in 4 days without any previous experience in web sockets.
 
 #### Grit, Adaptability & Emotional Intelligence
 
@@ -37,7 +38,7 @@ Chitter|
 * Outperformed during my first year at KPMG, and was offered to relocate to London when I was not selected in the visa lottery.
 * Made the decision to switch careers in November and become a web developer (1500 hours of coding and counting).
 
-None of these achievement would have happened if it wasn't for my discipline and perseverance (grit), ability to accept change (adaptability), and motivation and self-awareness (EI).
+None of these achievements would have happened if it wasn't for my discipline and perseverance (grit), ability to accept change (adaptability), and motivation and self-awareness (EI).
 
 ## <a name='education'> Education </a>
 
@@ -45,7 +46,7 @@ None of these achievement would have happened if it wasn't for my discipline and
 
 A 16-week intensive development bootcamp, focusing on:
 
-* Learning how to learn new tech
+* Learning how to approach new tech
 * Agile methodologies
 * Object-oriented design
 * Test driven development and behaviour driven development
@@ -81,4 +82,3 @@ A 16-week intensive development bootcamp, focusing on:
 * *Crossfit* - Participated in my first Crossfit Open competition in March.
 * *Skiing* - First resort: Bansko, Bulgaria; Favourite resort: Jackson Hole, Wyoming
 * *Traveling* - Visited 16 countries on three continents within a year while working full-time.
-* *Blogging* -

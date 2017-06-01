@@ -41,7 +41,7 @@
 * Solo Weekend Project: [Rock, Paper, Scissors Challenege](https://github.com/emmpak/rps-challenge)
 
 ## <a name="Week2">Week 2 - Further Object Oriented Design</a>
-* Paired Programming Project: [Oystercard]()
+* Paired Programming Project: [Oystercard](https://github.com/emmpak/oystercard)
 * Solo Weekend Project: [Takeaway Challenge](https://github.com/emmpak/takeaway-challenge)
 
 ## <a name="Week1">Week 1: Object Oriented Design (OOD)</a>
