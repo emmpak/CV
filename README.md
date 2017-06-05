@@ -15,11 +15,11 @@ I would love to work as a web or software developer for a purpose-driven company
 
 For a complete list, see the [roadmap](Projects.md) of my time at Makers Academy.
 
-Project | Description | Demo | Tech Stack | Testing Technologies
---------|-------------|------|------------|---------------------
-Alexa Sous Chef|
-Multiplayer Snake|
-Chitter|
+Project | Description | Tech       | Main Learning Outcome
+--------|-------------|------|------------|-----------------
+[Alexa Sous Chef](https://github.com/emmpak/alexa_sous_chef) | An Alexa skill which searches for recipes and reads out the ingredients and preparation steps. | Ruby, Sinatra, RSpec, Alexa | Alexa Voice Service
+[Multiplayer Snake](https://github.com/emmpak/multiplayer_snake) | A real-time, multiplayer, online version of the classic mobile game, snake. | JavaScript, NodeJS, Express, Sockets.io, p5.js Mocha, Chai | Web Sockets
+[Road Tripper](https://github.com/emmpak/chitter-challenge) | A Sinatra based application designed to mimic the basic functionality of Twitter. | Ruby, Sinatra, PostgreSQL, DataMapper, BCrypt HTML, CSS, RSpec, Capybara | ORM
 
 
 ## <a name='skills'> Skills </a>
