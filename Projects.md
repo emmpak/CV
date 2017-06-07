@@ -1,4 +1,4 @@
-# My [Makers Academy](http://www.makersacademy.com) Roadmap
+# My brew[Makers Academy](http://www.makersacademy.com) Roadmap
 
 | Week | Topic | Project |
 |--- |--- |--- |
@@ -8,7 +8,7 @@
 | 4 | Databases | [Bookmark Manager](https://github.com/emmpak/bookmark_manager)</br>[Chitter Challenge](https://github.com/emmpak/chitter-challenge)
 | 5 | Intro to JavaScript | [FizzBuzz in Javascript](https://github.com/emmpak/fizzbuzz_js)</br>[Airport Challenge in Javascript](https://github.com/emmpak/airport_challenge_js)</br>[Thermostat API and JQuery](https://github.com/emmpak/thermostat)</br>[Bowling Challenge](https://github.com/emmpak/bowling-challenge)
 | 6 | Group Project | [Makers BnB](https://github.com/emmpak/EEEKbnb)
-| 7 | Further JavaScript | [Notes App](https://github.com/emmpak/notes_app)</br>News App</br>[Ruby Refresh](https://github.com/emmpak/ruby-refresher)
+| 7 | Further JavaScript | [Notes App](https://github.com/emmpak/notes_app)</br>[News App](https://github.com/emmpak/news_summary)</br>[Ruby Refresh](https://github.com/emmpak/ruby-refresher)
 | 8 | Intro to Rails | Yelp</br>[Instagram](https://github.com/emmpak/instagram-challenge)
 | 8 | Practice Project | [Multiplayer Snake](https://github.com/emmpak/multiplayer_snake)
 | 9 | Tech tests | [Bank Tech Test](https://github.com/emmpak/bank_tech_test)</br>[Gilded Rose Tech Test](https://github.com/emmpak/GildedRose_Refactoring_Kata)</br>[Tic-Tac-Toe Tech Test](https://github.com/emmpak/tic-tac-toe)
