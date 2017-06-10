@@ -27,7 +27,7 @@ Project | Description | Tech | Main Learning Outcome
 #### Independent and Fast Learner
 
 * Self taught myself coding for four months and built a website prior to attending Makers Academy.
-* Learned how to develop an Alexa skill in 2 days and lead the final project.
+* Learned how to develop an Alexa skill in 2 days and led the final project.
 * Built an Alexa Voice Service prototype in 2 hours using Raspberry Pi to test my Alexa skills.
 * Created a multiplayer game with my team in 4 days without any previous experience in web sockets.
 
