@@ -11,10 +11,6 @@ While I have always had an affection for numbers and logical thinking, I came to
 
 I would love to work as a web or software developer for a purpose-driven company that strives to be better than yesterday and understands the importance of education, mentorship and personal growth.
 
-## <a name='projects'> Projects </a>
-
-**Current Project**: Translate the [FreeCodeCamp](https://github.com/emmpak/freecodecamp) algorithm problems into Jasmine tests and solve them using JavaScript with a focus on ES6.
-
 #### Makers Academy
 
 For a complete list, see the [roadmap](Projects.md) of my time at Makers Academy.
